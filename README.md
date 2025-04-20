@@ -1,2 +1,5 @@
 # YY
+Personal research project. Public read-only. 
+Copyright © 2025 XIEllen. 
+Licensed under CC BY-NC-ND 4.0 — no reuse, modification, or commercial use allowed.
 [CC BY-NC-ND 4.0] https://creativecommons.org/licenses/by-nc-nd/4.0/
